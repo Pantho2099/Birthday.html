@@ -1,4 +1,3 @@
-# Birthday.html
 <!DOCTYPE html>
 <html>
 <head>
